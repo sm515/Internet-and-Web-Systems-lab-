@@ -15,36 +15,37 @@ th {
     border-right: 1px;
 }
 h3 {
-    color: purple;
+    color: white;
     text-align: center;
     font-family: monospace;
     
 }
 h1 {
-    color: purple;
+    color: white;
     text-align: center;
     font-family: monospace;
    
 }
 h2 {
-    color: purple;
+    color: white;
     text-align: center;
     font-family: monospace;
 }
 h4 {
-    color: purple;
-    text-align: left;
+    color: white;
+    text-align: center;
     font-family: monospace;
 }
 body {
-     background-color: lightblue;
+     background-color: black;
      font-family: monospace;
      font-size: 20px;
 
 }
 div {
-	color: purple;
+	color: white;
     display: block;
     border-style: solid;
-    border-width: 5px;
+    border-width: 3px;
+    padding:5;
 }
